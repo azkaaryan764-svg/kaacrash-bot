@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:kaacrash/Baileys",
+    "@whiskeysockets/baileys": "github:azkaaryan764-svg/Baileys",
     "chalk": "^4.1.2",
     "jimp": "^1.6.1",
     "pino": "^9.6.0",
